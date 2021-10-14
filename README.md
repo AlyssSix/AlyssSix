@@ -511,6 +511,7 @@ II.	選擇清大資安
 
 
 -*---------------------**********---------------------**********---------------------**********---------------------**********---------------------*********
+https://app.wordtune.com/editor
 
 1.	Motivation
 I.	Self-assessment: 
@@ -524,3 +525,14 @@ The world today is experiencing an information explosion. Image recognition is b
 If I enter graduate school, I plan to concentrate on image recognition and computer vision then look forward to utilizing the collected data in the most effective way. In addition, I will supplement with artificial intelligence and deep learning, hoping that computer vision can make life easier and smarter.
 3.	Time Plan
 
+
+Early goal  
+Studying Advanced Placement  
+Studying Open Course what include the Operating System Engineering by CHOU, JERRY. Computer Vision for Visual Effects by CHEN, HWANN-TZONG. Enhancing my theoretical basis 
+
+Strengthen programming capabilities
+make an effort to program at work (python、SQL、JAVA)
+
+improve my English abilities 
+Listening to English podcasts and reading English news to enhance my English abilities 
+  
