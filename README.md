@@ -510,4 +510,17 @@ II.	選擇清大資安
 所以有效率的運用巨量資料，到未來深度學習等等範圍，是非常重要的，計畫進入研究所後，透過巨量分析的輔助，搭配人工智慧/深度學習來讓資料能被更有效的被運用，。 
 
 
+-*---------------------**********---------------------**********---------------------**********---------------------**********---------------------*********
+
+1.	Motivation
+I.	Self-assessment: 
+I have been interested in computer science ever since I was a child. Therefore, I studied the Department of Information Management at college. After graduation, I have continued to work with what I love. However, when I was worked in Inventec, I found I have to enhance my ability to solve problems quickly. I also found that I still have a lot to learn when working with many outstanding colleagues. I want to enhance my value and learn lots of things. Therefore, I am very firm in my volition to study in graduate school.
+	
+II.	Why I choose NTHUCS
+The National Tsing Hua University is a university with a long history, alumni connections covering various industries. Also, The NTHU has top academic resources and excellent teachers in computer vision, computer systems, artificial intelligence, and many fields of computer technology. To sum up the above advantages, NTHUCS is my first choice.
+ 
+2.	The Direction of research
+The world today is experiencing an information explosion. Image recognition is bound to become more widespread. As part of my independent study at my university, I developed a mobile app that can scan QR codes in invoices to quickly identify what items were purchased. It can perform simple image analysis and identification. Having worked with AMD and Intel, I have a better understanding of the applications of graphics. Additionally, working at TSMC gave me a chance to experience the benefits of computer vision. These experiences make me very interested in computer vision.
+If I enter graduate school, I plan to concentrate on image recognition and computer vision then look forward to utilizing the collected data in the most effective way. In addition, I will supplement with artificial intelligence and deep learning, hoping that computer vision can make life easier and smarter.
+3.	Time Plan
 
