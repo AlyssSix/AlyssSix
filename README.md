@@ -536,3 +536,26 @@ make an effort to program at work (python、SQL、JAVA)
 improve my English abilities 
 Listening to English podcasts and reading English news to enhance my English abilities 
   
+  
+ 
+STATEMENT OF PURPOSE
+1.	Motivation
+I have been interested in computer science ever since I was a child. Therefore, I joined the technology industry after graduated. When I was worked in Inventec, Graphics Driver is my main work content. Having worked with AMD and Intel, I have a better understanding of the applications of graphics technology. Additionally, being part of TSMC has given me the opportunity to see how computer vision can benefit companies by Improve yield. To sum up, I want to improve my self-worth and improve related knowledge. Therefore, I am very firm in my volition to study in graduate.
+
+2.	Study Plan
+The world today, Image recognition is bound to become more widespread. As part of my independent study at my college, I developed a mobile app that can scan QR codes in invoices what items were purchased and save them into your account. In TSMC, I use RPA to automatically detect desktop items and install the required applications automatically with a CMD script. This project saves us many human resources and reduces human error. 
+I will focus on image recognition and computer vision in graduate school then I will supplement with artificial intelligence. Below courses is what I prefer to dig in:
+I.	Early goal - Enhancing my theoretical basis (open course) 
+	Operating System Engineering. 
+	Computer Vision for Visual Effects. 
+II.	Mid-term Goal
+	Deep Learning
+	Topics on Design Automation
+	
+
+
+
+
+3.	Research proposal
+
+
