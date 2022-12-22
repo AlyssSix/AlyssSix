@@ -39,12 +39,51 @@ You can click the Preview link to take a look at your changes.
 
 
 
+import random
+import time
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.options import Options
+options = webdriver.ChromeOptions()
+options.add_argument("-incognito")
+driver = webdriver.Chrome(executable_path='.\chromedriver', options=options)
+driver.get('https://zh.surveymonkey.com/r/JM7JH5Q')
+opentxt=open('TEMP.txt',encoding="utf-8") #開記事本config
+text = []
+for line in opentxt.read().splitlines():
+    text.append(line)
+limit_low=35
+limit_high=36
+floatt=random.uniform(limit_low,limit_high)
+C=1
+TEMPP=round(floatt,C) #隨機溫度
+EIDD = (text[0])
+time.sleep(10)
 
+agree = driver.find_element_by_xpath(('//*[@id="109162016_829124879_label"]/span[1]')
+agree.click()
 
+EID = driver.find_element_by_xpath('//*[@id="109161976"]')
+EID.send_keys(EIDD) 
 
- 
+way = driver.find_element_by_xpath('//*[@id="109162187_829126208_label"]/span[1]')
+way.click()
 
+temp = driver.find_element_by_xpath('//*[@id="109162340_829127102_label"]/span[1]')
+temp.click()
 
+EIDT = driver.find_element_by_xpath('//*[@id="109162245"]')
+EIDT.send_keys(int(TEMPP))
+
+finalagree = driver.find_element_by_xpath('//*[@id="109162340_829127102_label"]/span[1]')
+finalagree.click()
+
+time.sleep(10)  #延遲
+nxt_btn = driver.find_element_by_xpath('//*[@id="patas"]/main/article/section/form/div[2]/button')
+nxt_btn.click()
+
+time.sleep(7)  #延遲
+driver.close() # 關瀏覽器
 *-----------------------------***********************************-------*--**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--*--*
 
 from DBSrv5ConnPy.db_object import DBObject ##DB連線工具
